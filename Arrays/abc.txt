@@ -1,0 +1,6 @@
+Compiled from "Prep2.java"
+public class Prep2 {
+  public Prep2();
+  public static void main(java.lang.String[]);
+  public java.lang.String toString();
+}
